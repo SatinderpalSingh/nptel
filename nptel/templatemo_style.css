@@ -1,6 +1,6 @@
-/* 
-Runner Template 
-http://www.templatemo.com/preview/templatemo_388_runner 
+/*
+Runner Template
+http://www.templatemo.com/preview/templatemo_388_runner
 */
 
 body {
@@ -9,8 +9,8 @@ body {
 	color: #666;
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 	font-size: 11px;
-	line-height: 1.4em; 
-	background-color: #fff; 
+	line-height: 1.4em;
+	background-color: #fff;
 	background-position: top;
 	background-repeat: repeat-x;
 }
@@ -95,7 +95,7 @@ ul.list_bullet li a:hover { color: #555 }
 	height: 50px;
 	padding: 25px 25px 25px 145px;
 	margin: 0 auto;
-	margin-bottom: 50px;	
+	margin-bottom: 50px;
 	font-size: 18px;
 	line-height: 24px;
 	color: #333;
@@ -282,51 +282,51 @@ p.image_caption { padding: 20px; background: #f2f2f2 }
 #contact_form { padding: 0; margin-bottom: 40px; width: 630px; }
 #contact_form form { margin: 0px; padding: 0px; }
 
-#contact_form form .input_field { 
-	width: 290px; 
-	padding: 5px; 
-	margin-bottom: 20px; 
-	color: #808b98;  
-	background: #fff; 
+#contact_form form .input_field {
+	width: 290px;
+	padding: 5px;
+	margin-bottom: 20px;
+	color: #808b98;
+	background: #fff;
 	border: 1px solid #dedede;
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 }
-#contact_form form label { 
-	display: block; 
-	width: 300px; 
-	margin-bottom: 10px; 
-	font-size: 11px 
+#contact_form form label {
+	display: block;
+	width: 300px;
+	margin-bottom: 10px;
+	font-size: 11px
 }
 
-#contact_form form textarea { 
-	width: 290px; 
-	height: 170px; 
-	padding: 5px; 
-	margin-bottom: 10px; 
-	color: #808b98; 
-	background: #fff; 
+#contact_form form textarea {
+	width: 290px;
+	height: 170px;
+	padding: 5px;
+	margin-bottom: 10px;
+	color: #808b98;
+	background: #fff;
 	border: 1px solid #dedede;
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 }
 
 #contact_form .submit_btn, #comment_form .submit_btn {
-	display: block; 
-	width: 70px; 
-	height: 30px; 
-	line-height: 30px; 
-	padding: 0 8px; 
-	text-align: center; 
-	text-decoration: none; 
-	font-weight: bold;  
-	background-color: #91c63e; 
-	border: 1px solid #5f8c19; 
-	color: #fff; 
-	font-size: 11px; 
+	display: block;
+	width: 70px;
+	height: 30px;
+	line-height: 30px;
+	padding: 0 8px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: bold;
+	background-color: #91c63e;
+	border: 1px solid #5f8c19;
+	color: #fff;
+	font-size: 11px;
 	cursor: pointer;
 }
 
 #templatemo_footer .col_3 {
-	width: 300px;	
+	width: 300px;
 }
 
 #templatemo_footer h4 { margin-bottom: 15px }
@@ -356,13 +356,13 @@ ul.twitter li {  margin: 0 0 20px 0; padding: 0 }
 .templatemo_paging ul { margin: 0; padding: 0; list-style: none }
 .templatemo_paging ul li { margin: 0; padding: 0; display: inline }
 
-.templatemo_paging ul li a { float: left; 
-	display: block; 
-	color: #666; 
-	text-decoration: none; 
-	margin-right: 5px; 
-	padding: 5px 10px; 
-	background: #ebe7e4; 
+.templatemo_paging ul li a { float: left;
+	display: block;
+	color: #666;
+	text-decoration: none;
+	margin-right: 5px;
+	padding: 5px 10px;
+	background: #ebe7e4;
 	border: 1px solid #d6d0cc;
 }
 
