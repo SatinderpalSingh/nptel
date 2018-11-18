@@ -8,18 +8,19 @@ body {
 	padding: 0;
 	color: #666;
 	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: 11px;
+	font-size: 13px;
 	line-height: 1.4em;
 	background-color: #fff;
 	background-position: top;
 	background-repeat: repeat-x;
 }
-
+/*#home { background-image: url(images/engineer.jpg) }
+#subpage { background-image: url(images/engineer.jpg) }*/
 #home { background-image: url(images/templatemo_body_home.jpg) }
 #subpage { background-image: url(images/templatemo_body_subpage.jpg) }
 
 h1, h2, h3, h4, h5, h6 {
-	color:#333;
+	color:blue;
 	font-weight:400;
 	padding: 0;
 	margin: 0 0 10px 0;
